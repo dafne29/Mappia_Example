@@ -140,7 +140,7 @@
 					<Keyword>group˸shp˸˸˸//github.com/dafne29/Mappia_Example/releases/download/Map_Download/manzanas.zip˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-74.63688716636999" miny="5.732504413185006" maxx="-74.33035545894869" maxy="5.843286808908505"></LatLonBoundingBox>
+				<LatLonBoundingBox minx="-94.60760525681233" miny="18.06672286990702" maxx="-94.25427013429656" maxy="18.19062136939073"></LatLonBoundingBox>
 				<BoundingBox SRS="EPSG:4326" minx="3281390.6293" miny="697252.7561606197" maxx="3318173.3673" maxy="709027.471299998"></BoundingBox>
 				<Style>
 					<Name>1</Name>
